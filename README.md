@@ -1,4 +1,4 @@
-# clustering
+# Assignment 3: Clustering and fitting 
 
 
 PDF file of the poster. PDFs are preferred because they avoid potential format
